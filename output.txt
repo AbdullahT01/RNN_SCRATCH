@@ -1,0 +1,345 @@
+--- Training Started ---
+
+Epoch 0 | Avg Loss: 7.4887
+Prompt: alice was very → the
+Prompt: the white rabbit → the
+Prompt: she was not → the
+Prompt: what is your → the
+Prompt: it was a → the
+
+Epoch 25 | Avg Loss: 5.6044
+Prompt: alice was very → the
+Prompt: the white rabbit → the
+Prompt: she was not → the
+Prompt: what is your → the
+Prompt: it was a → was
+
+Epoch 50 | Avg Loss: 5.2920
+Prompt: alice was very → to
+Prompt: the white rabbit → to
+Prompt: she was not → to
+Prompt: what is your → to
+Prompt: it was a → to
+
+Epoch 75 | Avg Loss: 4.9746
+Prompt: alice was very → and
+Prompt: the white rabbit → and
+Prompt: she was not → and
+Prompt: what is your → to
+Prompt: it was a → little
+
+Epoch 100 | Avg Loss: 4.6617
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → the
+Prompt: what is your → to
+Prompt: it was a → little
+
+Epoch 125 | Avg Loss: 4.3466
+Prompt: alice was very → of
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → and
+Prompt: it was a → little
+
+Epoch 150 | Avg Loss: 4.0851
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → i
+Prompt: it was a → little
+
+Epoch 175 | Avg Loss: 3.8280
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → with
+Prompt: it was a → little
+
+Epoch 200 | Avg Loss: 3.6205
+Prompt: alice was very → much
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → i
+Prompt: it was a → little
+
+Epoch 225 | Avg Loss: 3.4271
+Prompt: alice was very → much
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → out
+Prompt: it was a → little
+
+Epoch 250 | Avg Loss: 3.2557
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → little
+Prompt: it was a → little
+
+Epoch 275 | Avg Loss: 3.1330
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → about
+Prompt: it was a → little
+
+Epoch 300 | Avg Loss: 3.0151
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → about
+Prompt: it was a → little
+
+Epoch 325 | Avg Loss: 2.9135
+Prompt: alice was very → little
+Prompt: the white rabbit → say
+Prompt: she was not → a
+Prompt: what is your → to
+Prompt: it was a → little
+
+Epoch 350 | Avg Loss: 2.8238
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → the
+Prompt: what is your → alice
+Prompt: it was a → little
+
+Epoch 375 | Avg Loss: 2.7662
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → with
+Prompt: it was a → little
+
+Epoch 400 | Avg Loss: 2.7086
+Prompt: alice was very → deep
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → i
+Prompt: it was a → little
+
+Epoch 425 | Avg Loss: 2.6457
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → the
+Prompt: what is your → i
+Prompt: it was a → little
+
+Epoch 450 | Avg Loss: 2.5947
+Prompt: alice was very → little
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → little
+Prompt: it was a → little
+
+Epoch 475 | Avg Loss: 2.5643
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → little
+Prompt: it was a → little
+
+Epoch 500 | Avg Loss: 2.5293
+Prompt: alice was very → little
+Prompt: the white rabbit → say
+Prompt: she was not → a
+Prompt: what is your → with
+Prompt: it was a → great
+
+Epoch 525 | Avg Loss: 2.5014
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → little
+Prompt: it was a → little
+
+Epoch 550 | Avg Loss: 2.4593
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → through
+Prompt: it was a → little
+
+Epoch 575 | Avg Loss: 2.4536
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → with
+Prompt: it was a → little
+
+Epoch 600 | Avg Loss: 2.4250
+Prompt: alice was very → deep
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → very
+Prompt: it was a → little
+
+Epoch 625 | Avg Loss: 2.4086
+Prompt: alice was very → much
+Prompt: the white rabbit → say
+Prompt: she was not → a
+Prompt: what is your → to
+Prompt: it was a → great
+
+Epoch 650 | Avg Loss: 2.3928
+Prompt: alice was very → deep
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → you
+Prompt: it was a → great
+
+Epoch 675 | Avg Loss: 2.3755
+Prompt: alice was very → deep
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → great
+
+Epoch 700 | Avg Loss: 2.3658
+Prompt: alice was very → little
+Prompt: the white rabbit → say
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 725 | Avg Loss: 2.3452
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 750 | Avg Loss: 2.3390
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → great
+
+Epoch 775 | Avg Loss: 2.3216
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 800 | Avg Loss: 2.3145
+Prompt: alice was very → little
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 825 | Avg Loss: 2.2990
+Prompt: alice was very → little
+Prompt: the white rabbit → say
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 850 | Avg Loss: 2.2889
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 875 | Avg Loss: 2.2745
+Prompt: alice was very → little
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 900 | Avg Loss: 2.2783
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → going
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 925 | Avg Loss: 2.2775
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 950 | Avg Loss: 2.2682
+Prompt: alice was very → much
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → low
+
+Epoch 975 | Avg Loss: 2.2500
+Prompt: alice was very → deep
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 1000 | Avg Loss: 2.2588
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → the
+Prompt: what is your → shoes
+Prompt: it was a → little
+
+Epoch 1025 | Avg Loss: 2.2484
+Prompt: alice was very → deep
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → great
+
+Epoch 1050 | Avg Loss: 2.2502
+Prompt: alice was very → much
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 1075 | Avg Loss: 2.2392
+Prompt: alice was very → much
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → very
+
+Epoch 1100 | Avg Loss: 2.2436
+Prompt: alice was very → good
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → great
+
+Epoch 1125 | Avg Loss: 2.2474
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 1150 | Avg Loss: 2.2312
+Prompt: alice was very → little
+Prompt: the white rabbit → came
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+Epoch 1175 | Avg Loss: 2.2521
+Prompt: alice was very → little
+Prompt: the white rabbit → was
+Prompt: she was not → a
+Prompt: what is your → finger
+Prompt: it was a → little
+
+--- Final Predictions ---
+Prompt: alice was very → little
+Prompt: the white rabbit → with
+Prompt: she was not → a
+Prompt: what is your → shoes
+Prompt: it was a → little
+PS C:\Users\abdul\OneDrive\Desktop\University\personal-projects\RNN_SCRATCH> 
